@@ -1,11 +1,11 @@
-[Octopress](http://octopress.org/) Theme for [k-ui.jp](http://k-ui.jp/)
+Chinese version [Octopress](http://octopress.org/) Theme for [k-ui.jp](http://k-ui.jp/)
 
 Install
 ----------------------------------------------------------------
 
 ```sh
 $ cd octopress-home/.theme
-$ git clone git://github.com/kui/k-ui-octopress-theme.git kui
+$ git clone git://github.com/liubin/k-ui-octopress-theme.git kui
 $ cd ..
 $ rake install["kui"]
 $ rake generate
